@@ -1,0 +1,5 @@
+When I log into clear, I see a huge block of text warning me that this 
+computer cluster is for authorized users only. It shows some other info on 
+each of the nodes, and some helpful notes. I couldn't find the week 0 
+video where you actually ssh into clear, but I remember at the very least 
+that your local shell is the fish shell. 
